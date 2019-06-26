@@ -1,0 +1,12 @@
+{
+  "Example Name": {
+    "firstName": "Example",
+    "lastName": "Name",
+    "phoneNumber": "5555555"
+  },
+  "Ruth": {
+    "firstName": "Ruth",
+    "lastName": "",
+    "phoneNumber": "5555555"
+  }
+}
