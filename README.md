@@ -1,5 +1,5 @@
 # cli-address-book
-List and add new entries to this CLI address book built with node.
+List and add new entries to this CLI address book built with Commander.js, Inquirer.js and node.
 
 ### Setup
 git clone thelink to this repo  
